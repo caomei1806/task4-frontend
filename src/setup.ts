@@ -1,0 +1,1 @@
+export const URL = 'https://kg-task4-backend.herokuapp.com/api/v1'
