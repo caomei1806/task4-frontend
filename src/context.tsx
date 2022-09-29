@@ -7,7 +7,7 @@ import React, {
 	useCallback,
 } from 'react'
 import { User } from './model/User'
-const URL = 'http://localhost:5000/api/v1'
+import { URL } from './setup'
 
 interface AppContextInterface {
 	users: User[] | []
